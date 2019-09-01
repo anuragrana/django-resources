@@ -30,5 +30,5 @@ A collection of Django resources
 - [Heroku](https://www.heroku.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [Digital Ocean](https://marketplace.digitalocean.com/apps/django)
-- [AWS Codestar)[AWS CodeStar]
+- [AWS Codestar](AWS CodeStar)
 - [Linode](https://www.linode.com/)
