@@ -1,4 +1,4 @@
-# django-resources
+# Django Resources
 A collection of Django resources
 
 ## Tutorials and Articles
@@ -32,3 +32,7 @@ A collection of Django resources
 - [Digital Ocean](https://marketplace.digitalocean.com/apps/django)
 - [AWS Codestar](https://aws.amazon.com/codestar/)
 - [Linode](https://www.linode.com/)
+
+
+## Contibution
+Please contribute by opening a [pull request](https://github.com/anuragrana/django-resources/pulls).
