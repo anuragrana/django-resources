@@ -7,6 +7,7 @@ A collection of Django resources
 - [djangorocks.com](https://www.djangorocks.com/)   
 - [Django Server Comparison: The Development Server, Mod_WSGI, uWSGI, and Gunicorn](https://www.digitalocean.com/community/tutorials/django-server-comparison-the-development-server-mod_wsgi-uwsgi-and-gunicorn)
 - [Decorators demystified](https://stackoverflow.com/a/1594484/2291289)
+- [Setting up Django and your web server with uWSGI and nginx](https://uwsgi.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)
 
 
 
