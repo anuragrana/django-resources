@@ -23,3 +23,12 @@ A collection of Django resources
 ## Official Documentation
 - [Latest Documentation](https://docs.djangoproject.com/en/dev/)
 - [Tutorials](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
+
+
+## Hosting
+- [PythonAnyWhere](https://www.pythonanywhere.com/?affiliate_id=000f9990)
+- [Heroku](https://www.heroku.com/)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+- [Digital Ocean](https://marketplace.digitalocean.com/apps/django)
+- [AWS Codestar)[AWS CodeStar]
+- [Linode](https://www.linode.com/)
