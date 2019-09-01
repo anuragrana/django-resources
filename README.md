@@ -6,11 +6,18 @@ A collection of Django resources
 - [simpleisbetterthancomplex.com](https://simpleisbetterthancomplex.com/)  
 - [djangorocks.com](https://www.djangorocks.com/)   
 - [Django Server Comparison: The Development Server, Mod_WSGI, uWSGI, and Gunicorn](https://www.digitalocean.com/community/tutorials/django-server-comparison-the-development-server-mod_wsgi-uwsgi-and-gunicorn)
+- [Decorators demystified](https://stackoverflow.com/a/1594484/2291289)
 
 
 
 ## Template Fiddle
 - [DjangoTemplateFiddle.com](https://www.djangotemplatefiddle.com)
+
+
+## Solving Django Errors
+- [Solving Django Error: TemplateDoesNotExist at /app_name/](https://www.pythoncircle.com/post/660/solving-django-error-templatedoesnotexist-at-app_name/)
+- [Solving Django Error 'Noreversematch At' Url With Arguments '()' And Keyword Arguments '{}' Not Found.](https://www.pythoncircle.com/post/424/solving-django-error-noreversematch-at-url-with-arguments-and-keyword-arguments-not-found/)
+- [How to debug in Django, the good way?](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
 
 
 ## Official Documentation
